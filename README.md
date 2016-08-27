@@ -1,4 +1,4 @@
-# M2UA Testtool
+# M2UA Testtool and Testsuite
 A test tool for M2UA as specified in [RFC 3331](https://tools.ietf.org/html/rfc3331)
 and the ETSI specification
 [ETSI TS 102 141](http://www.etsi.org/deliver/etsi_ts/102100_102199/102141/01.01.01_60/ts_102141v010101p.pdf).
